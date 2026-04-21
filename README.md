@@ -14,7 +14,7 @@
 | Auth | JWT (stateless) |
 | Payments | Razorpay |
 | Cache | Redis (Upstash) |
-| Email | Nodemailer (SMTP/Gmail) |
+| Email | Bervo (Gmail) |
 | Deployment | Vercel (frontend) · Render (backend) |
 
 ---
