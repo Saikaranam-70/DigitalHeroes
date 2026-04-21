@@ -91,6 +91,7 @@ const LoginPage = () => {
               Email: <span style={{ color: "#fff" }}>saikaranam995@gmail.com</span> <br />
               Password: <span style={{ color: "#fff" }}>Admin@123</span>
             </div>
+            <p>Wait 40secs from initial Request to restart render free tier server</p>
           </div>
 
           {/* FORM */}
