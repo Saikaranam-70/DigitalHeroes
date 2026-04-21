@@ -1,4 +1,4 @@
-# GolfHero — Full Stack Application
+# Digital Heroes — Full Stack Application
 
 > Play. Win. Give. — A subscription-based golf score tracking, monthly draw, and charity platform.
 
