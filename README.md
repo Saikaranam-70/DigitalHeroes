@@ -71,10 +71,7 @@ RAZORPAY_KEY_SECRET=your_secret
 UPSTASH_REDIS_REST_URL=https://xxx.upstash.io
 UPSTASH_REDIS_REST_TOKEN=your_token
 
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USER=your@gmail.com
-SMTP_PASS=your_app_password
+
 EMAIL_FROM=noreply@golfhero.com
 
 FRONTEND_URL=http://localhost:5173
